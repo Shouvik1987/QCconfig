@@ -1,0 +1,16 @@
+spring:
+  application:
+    name: "catalogue"
+
+catalogue:
+  description: "Catalogue QA API for Queens Closet Application"
+  contact:
+    name: "Shouvik Sarkar"
+    email: "shouvik@qc.com"
+  onCallSupport:
+    - "+919477422708"
+    - "+447741946867"
+
+build:
+  version: 2.0
+  owner: "Queenscloset  QA Team"
